@@ -10,9 +10,9 @@ To use the task board:
 - Open index.html in a web browser.
 - Use the task board to add, manage, and track project tasks.
 
-[$rarr: This is the link to the website](https://janiandaluz.github.io/task-board/)
+[&rarr; This is the link to the website](https://janiandaluz.github.io/task-board/)
 
-[$rarr: This is the link to the GitHub repository](https://github.com/janiandaluz/task-board)
+[&rarr; This is the link to the GitHub repository](https://github.com/janiandaluz/task-board)
 
 ![Actual Website Screenshot](./assets/images/Screenshot1.png)
 ![Actual Website Screenshot](./assets/images/Screenshot2.png)
